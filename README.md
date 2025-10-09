@@ -1,66 +1,21 @@
-Given string a = "apple"; string b = "banana"; what does a.compare(b) return?
+Hi 👋 My name is John Dave
+==========================
 
-1 point
-Undefined
-Greater than 0
-0
-Less than 0
-What happens after executing s.clear(); on a string?
+Studying Information Technology
+-------------------------------
 
-1 point
-String resets to “null”
-String becomes empty
-String is deleted from memory
-String is replaced with spaces
-Which of the following correctly reads a sentence including spaces?
+Im a college student who aspires to be a web developer im currently in college taking Bachelor of science in Information technology
 
-1 point
-getline(cin, text);
-input(text);
-cin.get(text);
-cin >> text;
-What will str.erase(0, 5); do if str = "Hello World";?
+* 🌍  I'm based in Philippines
+* ✉️  You can contact me at [johndavecordoto@gmail.com](mailto:johndavecordoto@gmail.com)
+* 🧠  I'm currently learning Html, Css, Javascript, Php and Phyton.
+* 👥  I'm looking to collaborate on interesting projects
+* 💬  Ask me about im open to learn new things around web development both front end and backend! and i like strolling around the streets at night pretending to be batman.
 
-1 point
-Remove the first 5 characters
-Remove the last 5 characters
-Add 5 characters
-Replace the string with “World”
-Which of the following correctly declares a string in C++?
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
+</p>
 
-1 point
-char str[] = "Hello";
-var str = "Hello";
-string str = "Hello";
-text str = "Hello";
-When reading string input in C++, cin and getline() behave differently. Which statement best describes this difference?
+### Socials
 
-1 point
-Both stop reading when a newline is encountered.
-Both functions read the same amount of text.
-getline() reads only the first word, while cin reads the full line.
-cin reads until a space, while getline() reads the entire line including spaces.
-Which header file must be included to use the string class in C++?
-
-1 point
-<text>
-<string.h>
-<cstring>
-<string>
-Two strings declared as: string a = "apple"; string b = "banana";
-
-what will it return and what does it mean if the statement a.compare(b) is executed?
-
-1 point
-It is undefined number.
-Positive number, meaning “apple” comes after “banana”.
-Zero, meaning both are the same.
-Negative number, meaning “apple” comes before “banana”.
-What is the correct output of the following program?
-
-string s1 = "Learning C++ is fun!"; string s2 = "I love programming."; s1.swap(s2); cout << s1;
-1 point
-Learning programming.
-C++ is fun!
-I love programming.
-Learning C++ is fun!
+<p align="left"> <a href="https://www.github.com/Nycx04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/danuja2029" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/john dave cordoto" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
