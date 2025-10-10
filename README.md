@@ -6,7 +6,7 @@ Studying Information Technology
 
 Im a college student who aspires to be a web developer im currently in college taking Bachelor of science in Information technology
 
-* 🌍  I'm based in Philippines
+* 🌍  I'm from Philippines
 * ✉️  You can contact me at [johndavecordoto@gmail.com](mailto:johndavecordoto@gmail.com)
 * 🧠  I'm currently learning Html, Css, Javascript, Php and Phyton.
 * 👥  I'm looking to collaborate on interesting projects
