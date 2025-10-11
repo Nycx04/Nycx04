@@ -9,7 +9,6 @@ Im a college student who aspires to be a web developer im currently in college t
 * 🌍  I'm from Philippines
 * ✉️  You can contact me at [johndavecordoto@gmail.com](mailto:johndavecordoto@gmail.com)
 * 🧠  I'm currently learning Html, Css, Javascript, Php and Phyton.
-* 👥  I'm looking to collaborate on interesting projects
 * 💬  Ask me about im open to learn new things around web development both front end and backend! and i like strolling around the streets at night pretending to be batman.
 
 <p align="left">
