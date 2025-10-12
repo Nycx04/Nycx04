@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **johndavecordoto@gmail.com**
 
-- ⚡ Fun fact **I go around at night protecting the city from criminals**
+- ⚡ Fun fact **I go around at night protecting the city from criminals im literally batman frfr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
