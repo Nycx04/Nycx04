@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=50&duration=8000&pause=1000&center=true&vCenter=true&width=550&height=100&lines=Hello!+Im+Nycx+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=50&duration=8000&pause=1000&color=F7F6B1&center=true&vCenter=true&width=550&height=100&lines=Hello!+Im+Nycx+" alt="Typing SVG" /></a>
 <h3 align="center">A learning stuudent from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nycx04&label=Profile%20views&color=0e75b6&style=flat" alt="nycx04" /> </p>
