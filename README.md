@@ -5,7 +5,7 @@
   <br>
 
 
-  <img src="https://github.com/Nycx04/Nycx04/blob/main/undefined%20-%20Imgur.gif?raw=true" alt="Camellya" width="800" height="250" />
+  <img src="https://github.com/Nycx04/Nycx04/blob/main/undefined%20-%20Imgur.gif?raw=true](https://github.com/Nycx04/Nycx04/blob/main/camellya-wuthering.gif?raw=true" alt="Camellya" width="800" height="250" />
 </div>
 
 
