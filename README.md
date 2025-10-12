@@ -1,9 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=50&duration=8000&pause=1000&color=F7F6B1&center=true&vCenter=true&width=550&height=100&lines=Hello!+Im+Nycx+" alt="Typing SVG" /></a>
 <p align="center">
-  <img src="(https://github.com/Nycx04/Nycx04/blob/main/camellya-wuthering-waves.gif)" alt="Camellya" width="800" height="200">
+  <img src="https://github.com/Nycx04/Nycx04/blob/main/camellya-wuthering-waves.gif" alt="Camellya" width="800" height="200">
 </p>
 
 <h3 align="center">A learning stuudent from Philippines</h3>
+
+
 
 - 🌱 I’m currently learning **Front-end design.**
 
