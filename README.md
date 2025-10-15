@@ -5,7 +5,8 @@
   <br>
 
 
-  <img src="https://github.com/Nycx04/Nycx04/blob/main/reze-csm-reze.gif?raw=true" alt="Reze" width="850" height="250" />
+  ![reze-csm-reze](https://github.com/user-attachments/assets/8e2ca7c7-8e23-4aef-8fc0-cd0169490be1)
+
 </div>
 
 
