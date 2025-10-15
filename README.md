@@ -5,7 +5,7 @@
   <br>
 
 
-  <img src="[https://github.com/Nycx04/Nycx04/blob/main/camellya-wuthering.gif?raw=true](https://raw.githubusercontent.com/Nycx04/Nycx04/refs/heads/main/camellya-wuthering.gif](https://github.com/Nycx04/Nycx04/blob/main/reze-csm-reze.gif?raw=true)" alt="Reze" width="850" height="250" />
+  <img src="(https://github.com/Nycx04/Nycx04/blob/main/reze-csm-reze.gif?raw=true)" alt="Reze" width="850" height="250" />
 </div>
 
 
