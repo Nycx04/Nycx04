@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center">A learning stuudent from Philippines</h3>
+<h3 align="center">A learning student from Philippines</h3>
 
 
 
