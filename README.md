@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Front-end design.**
 
-- 💬 Ask me about **Html,Css**
+- 💬 Ask me about **Html,Css,JavaScript**
 
 - 📫 How to reach me **johndavecordoto@gmail.com**
 
