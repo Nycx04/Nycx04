@@ -11,7 +11,7 @@
 
 
 
-<h1 align="center">Hi 👋 Im, John Dave Cordoto</h1>
+<h1 align="center">Hi 👋 Im John Dave Cordoto</h1>
 <h3 align="center">Aspiring Full stack dev</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nycx04&label=Profile%20views&color=0e75b6&style=flat" alt="nycx04" /> </p>
 
