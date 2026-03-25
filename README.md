@@ -15,7 +15,7 @@
 <h3 align="center">Aspiring Full stack dev</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nycx04&label=Profile%20views&color=0e75b6&style=flat" alt="nycx04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nycx04&theme=onedark" alt="nycx04" /></a> </p>
+
 
 - 🌱 I’m currently learning **React, Nodejs, MongoDB**
 - 💬 Ask me about **Javascript Frameworks**
