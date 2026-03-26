@@ -13,7 +13,7 @@
 
 
 <h1 align="center">Hi 👋 Im John Dave Cordoto</h1>
-<h3 align="center">Aspiring Full stack dev</h3>
+<h3 align="center">College Student</h3>
 
 
 
